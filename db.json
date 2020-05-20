@@ -1,0 +1,35 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "placeName": "1층 로비",
+            "placeDescription": "로비에서는 과자를 먹지 마세요, 바나나 알러지 원숭이"
+        },
+        {
+            "id": 2,
+            "placeName": "10층 로비",
+            "placeDescription": "싸피 로비입니다"
+        },
+        {
+            "id": 3,
+            "placeName": "100층 로비",
+            "placeDescription": "너무 높아요"
+        },
+        {
+            "id": 4,
+            "placeName": "20층 식당",
+            "placeDescription": "서울이 한 눈에 보이는 뷰"
+        }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "eventName": "백준 알고리즘 강의",
+            "eventStartTime": "2020-05-20 14:20:30",
+            "eventEndTime": "2020-05-20 17:20:30",
+            "eventDescription": "알고리즘 마스터 백준님의 강의입니다",
+            "eventFloor": "10",
+            "eventRoomNumber": "1003"
+        }
+    ]
+}
